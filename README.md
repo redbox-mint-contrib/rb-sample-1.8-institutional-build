@@ -26,5 +26,6 @@ Please follow the links on our old documentation website for:
 * [installation](http://docs.redboxresearchdata.com.au/documentation/installguide), and
 * [customisation](http://docs.redboxresearchdata.com.au/documentation/how-to/institutional-builds).
 
-(For later builds against 1.x: see: https://www.redboxresearchdata.com.au/download/)
-(For Redbox 2.x preview, please explore our demo site at: https://demo.redboxresearchdata.com.au/)
+*(For later builds against 1.x: see: https://www.redboxresearchdata.com.au/download/)*
+
+*(For Redbox 2.x preview, please explore our demo site at: https://demo.redboxresearchdata.com.au/)*
