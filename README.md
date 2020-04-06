@@ -22,4 +22,9 @@ Copy your local changes in your existing system-config.json into the correspondi
 
 The 1.8 institutional build structure mimics the application structure and simply is overlaid over the deployed redbox-build-distro distribution to have your customisations applied.
 
-Please see the [Upgrading to 1.8 documentation](http://www.redboxresearchdata.com.au/releases/completed/1-8/upgrading-to-1-8) for more information.
+Please follow the links on our old documentation website for:
+* [installation](http://docs.redboxresearchdata.com.au/documentation/installguide), and
+* [customisation](http://docs.redboxresearchdata.com.au/documentation/how-to/institutional-builds).
+
+(For later builds against 1.x: see: https://www.redboxresearchdata.com.au/download/)
+(For Redbox 2.x preview, please explore our demo site at: https://demo.redboxresearchdata.com.au/)
